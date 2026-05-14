@@ -1,6 +1,6 @@
-# 🏋️‍♂️ IRON PULSE - Modern Fitness Landing Page
+# 🏋️‍♂️ CERfitness - Modern Fitness Landing Page
 
-IRON PULSE is a premium, high-performance, and fully responsive landing page designed for modern fitness centers and gyms. Built entirely from scratch using clean, semantic HTML5 and modern CSS3 techniques, this project showcases pixel-perfect design across all devices (Desktop, Tablet, and Mobile).
+CERfitness is a premium, high-performance, and fully responsive landing page designed for modern fitness centers and gyms. Built entirely from scratch using clean, semantic HTML5 and modern CSS3 techniques, this project showcases pixel-perfect design across all devices (Desktop, Tablet, and Mobile).
 
 ## 📸 Preview
 

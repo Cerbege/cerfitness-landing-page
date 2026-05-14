@@ -36,10 +36,3 @@ IRON PULSE is a premium, high-performance, and fully responsive landing page des
 - **Tablet (992px):** Adaptive single-column structural cards and centered alignments.
 - **Mobile (768px):** Clean vertical block elements with mobile-friendly, large tap-target buttons.
 
-## 📂 Project Structure
-
-```text
-├── assets/
-│   └── screenshot.png # Project showcase image for GitHub
-├── index.html         # Main semantic HTML5 markup
-└── style.css          # Custom modern CSS stylesheet with variables
